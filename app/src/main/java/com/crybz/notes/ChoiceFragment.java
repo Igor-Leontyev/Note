@@ -66,6 +66,7 @@ public class ChoiceFragment extends Fragment {
                 }
 
 
+
             });
 
             LinearLayout.addView(textView);
